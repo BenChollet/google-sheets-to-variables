@@ -1,0 +1,17 @@
+{
+  "name": "google-sheets-to-variables",
+  "id": "1351646141639965459",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ],
+  "networkAccess": {
+    "allowedDomains": [
+      "https://sheets.googleapis.com"
+    ]
+  }
+}
